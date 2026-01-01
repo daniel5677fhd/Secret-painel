@@ -1,2 +1,2 @@
-# Secret-painel
-Painel do termux 
+# Seu Ip foi pego
+se ferrou
